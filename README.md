@@ -1,2 +1,2 @@
 # first_flask_api
-This repository is created to practice flask and swagger
+This repository is created to practice flask and swagger. OK.
